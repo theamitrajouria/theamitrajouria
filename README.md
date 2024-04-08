@@ -5,7 +5,7 @@
 - 🙋‍♂️ Ask me about data visualization, statistical analysis, and machine learning
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on mysql and python
-- 📫 How to reach me theamitrajouria@gmail.com
+- 📫 How to reach me amit.rajouria@outlook.com
 -
 
 <!---
